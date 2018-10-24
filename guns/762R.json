@@ -1,0 +1,26 @@
+[
+  {
+    "id": "mosin44",
+	"type": "GUN",
+	"copy-from": "mosin44",
+    "name": "Mosin-Nagant M44 (7.62x54mmR)"
+  },
+  {
+    "id": "mosin44_ebr",
+	"type": "GUN",
+	"copy-from": "mosin44_ebr",
+    "name": "Mosin-Nagant M44-EBR (7.62x54mmR)"
+  },
+  {
+    "id": "mosin91_30",
+	"type": "GUN",
+	"copy-from": "mosin91_30",
+    "name": "Mosin-Nagant 1891/30 (7.62x54mmR)"
+  },
+  {
+    "id": "mosin91_30_ebr",
+	"type": "GUN",
+	"copy-from": "mosin91_30_ebr",
+    "name": "Mosin-Nagant 1891/30-EBR (7.62x54mmR)"
+  }
+]

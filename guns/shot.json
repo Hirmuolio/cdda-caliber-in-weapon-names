@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ashot",
+	"type": "GUN",
+	"copy-from": "ashot",
+    "name": "12 gauge pistol (shot)"
+  },
+  {
+    "id": "bigun",
+	"type": "GUN",
+	"copy-from": "bigun",
+    "name": "manual autoshotgun (shot)"
+  },
+  {
+    "id": "ksg",
+	"type": "GUN",
+	"copy-from": "ksg",
+    "name": "Kel-Tec KSG (shot)"
+  },
+  {
+    "id": "l_def_12",
+	"type": "GUN",
+	"copy-from": "l_def_12",
+    "name": "L12 Defender (shot)"
+  },
+  {
+    "id": "m1014",
+	"type": "GUN",
+	"copy-from": "m1014",
+    "name": "M1014 shotgun (shot)"
+  },
+  {
+    "id": "mossberg_500",
+	"type": "GUN",
+	"copy-from": "mossberg_500",
+    "name": "Mossberg 500 (shot)"
+  },
+  {
+    "id": "pipe_double_shotgun",
+	"type": "GUN",
+	"copy-from": "pipe_double_shotgun",
+    "name": "double-barrel pipe shotgun (shot)"
+  },
+  {
+    "id": "pipe_shotgun",
+	"type": "GUN",
+	"copy-from": "pipe_shotgun",
+    "name": "pipe shotgun (shot)"
+  },
+  {
+    "id": "remington_870",
+	"type": "GUN",
+	"copy-from": "remington_870",
+    "name": "Remington 870 (shot)",
+	"name_plural": "Remington 870 (shot)"
+  },
+  {
+    "id": "revolver_shotgun",
+	"type": "GUN",
+	"copy-from": "revolver_shotgun",
+    "name": "shotgun revolver (shot)"
+  },
+  {
+    "id": "saiga_12",
+	"type": "GUN",
+	"copy-from": "saiga_12",
+    "name": "Saiga-12 (shot)"
+  },
+  {
+    "id": "shotgun_d",
+	"type": "GUN",
+	"copy-from": "shotgun_d",
+    "name": "double barrel shotgun (shot)"
+  },
+  {
+    "id": "shotgun_s",
+	"type": "GUN",
+	"copy-from": "shotgun_s",
+    "name": "single barrel shotgun (shot)"
+  },
+  {
+    "id": "surv_levershotgun",
+	"type": "GUN",
+	"copy-from": "surv_levershotgun",
+    "name": "handmade lever shotgun (shot)"
+  }
+]

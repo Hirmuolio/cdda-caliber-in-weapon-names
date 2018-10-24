@@ -1,0 +1,8 @@
+[
+  {
+    "id": "coilgun",
+	"type": "GUN",
+	"copy-from": "coilgun",
+    "name": "coilgun (nail)"
+  }
+]

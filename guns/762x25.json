@@ -1,0 +1,15 @@
+[
+  {
+    "id": "ppsh",
+	"type": "GUN",
+	"copy-from": "ppsh",
+    "name": "PPSh-41 (7.62x25mm)"
+  },
+  {
+    "id": "tokarev",
+	"type": "GUN",
+	"copy-from": "tokarev",
+    "name": "Tokarev TT-33 (7.62x25mm)",
+	"name_plural": "Tokarev TT-33 (7.62x25mm)"
+  }
+]

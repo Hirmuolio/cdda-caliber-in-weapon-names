@@ -1,0 +1,38 @@
+[
+  {
+    "id": "emp_gun",
+	"type": "GUN",
+	"copy-from": "emp_gun",
+    "name": "XM34 EMP projector (UPS)"
+  },
+  {
+    "id": "laser_cannon",
+	"type": "GUN",
+	"copy-from": "laser_cannon",
+    "name": "handheld laser cannon (UPS)"
+  },
+  {
+    "id": "laser_rifle",
+	"type": "GUN",
+	"copy-from": "laser_rifle",
+    "name": "A7 laser rifle (UPS)"
+  },
+  {
+    "id": "unbio_blaster_gun",
+	"type": "GUN",
+	"copy-from": "unbio_blaster_gun",
+    "name": "fusion blaster rifle (UPS)"
+  },
+  {
+    "id": "v29",
+	"type": "GUN",
+	"copy-from": "v29",
+    "name": "V29 laser pistol (UPS)"
+  },
+  {
+    "id": "v29_cheap",
+	"type": "GUN",
+	"copy-from": "v29_cheap",
+    "name": "homemade laser pistol (UPS)"
+  }
+]

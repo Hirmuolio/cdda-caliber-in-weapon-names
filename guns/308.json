@@ -1,0 +1,75 @@
+[
+  {
+    "id": "fn_fal",
+	"type": "GUN",
+	"copy-from": "fn_fal",
+    "name": "FN FAL (7.62x51mm)"
+  },
+  {
+    "id": "hk_g3",
+	"type": "GUN",
+	"copy-from": "hk_g3",
+    "name": "H&K G3 (7.62x51mm)",
+	"name_plural": "H&K G3 (7.62x51mm)"
+  },
+  {
+    "id": "m134",
+	"type": "GUN",
+	"copy-from": "m134",
+    "name": "H&K G3 (7.62x51mm)",
+	"name_plural": "M134D-H Minigun (7.62x51mm)"
+  },
+  {
+    "id": "m14ebr",
+	"type": "GUN",
+	"copy-from": "m14ebr",
+    "name": "H&K G3 (7.62x51mm)",
+	"name_plural": "M14 EBR-RI (7.62x51mm)"
+  },
+  {
+    "id": "m1a",
+	"type": "GUN",
+	"copy-from": "m1a",
+    "name": "M1A (7.62x51mm)",
+	"name_plural": "M1A (7.62x51mm)"
+  },
+  {
+    "id": "m240",
+	"type": "GUN",
+	"copy-from": "m240",
+    "name": "M240 (7.62x51mm)"
+  },
+  {
+    "id": "m60",
+	"type": "GUN",
+	"copy-from": "m60",
+    "name": "M60 (7.62x51mm)"
+  },
+  {
+    "id": "rifle_308",
+	"type": "GUN",
+	"copy-from": "rifle_308",
+    "name": "pipe rifle: .308 (7.62x51mm)"
+  },
+  {
+    "id": "savage_111f",
+	"type": "GUN",
+	"copy-from": "savage_111f",
+    "name": "Savage 111F (7.62x51mm)",
+	"name_plural": "Savage 111F (7.62x51mm)"
+  },
+  {
+    "id": "scar_h",
+	"type": "GUN",
+	"copy-from": "scar_h",
+    "name": "FN SCAR-H (7.62x51mm)",
+	"name_plural": "FN SCAR-H (7.62x51mm)"
+  },
+  {
+    "id": "M24",
+	"type": "GUN",
+	"copy-from": "M24",
+    "name": "M24 (7.62x51mm)",
+	"name_plural": "M24 (7.62x51mm)"
+  }
+]

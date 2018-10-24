@@ -1,0 +1,23 @@
+[
+  {
+    "id": "m2010",
+	"type": "GUN",
+	"copy-from": "m2010",
+    "name": "M2010 ESR (.300)",
+	"name_plural": "M2010 ESR (.300)"
+  },
+  {
+    "id": "weatherby_5",
+	"type": "GUN",
+	"copy-from": "weatherby_5",
+    "name": "Weatherby Mark V (.300)",
+	"name_plural": "Weatherby Mark V (.300)"
+  },
+  {
+    "id": "win70",
+	"type": "GUN",
+	"copy-from": "win70",
+    "name": "Winchester Model 70 (.300)",
+	"name_plural": "Winchester Model 70 (.300)"
+  }
+]

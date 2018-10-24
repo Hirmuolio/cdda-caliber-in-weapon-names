@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ak74",
+	"type": "GUN",
+	"copy-from": "ak74",
+    "name": "AK-74M (5.45x39mm)"
+  },
+  {
+    "id": "an94",
+	"type": "GUN",
+	"copy-from": "an94",
+    "name": "AN-94 (5.45x39mm)"
+  }
+]

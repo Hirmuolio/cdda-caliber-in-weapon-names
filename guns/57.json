@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fn57",
+	"type": "GUN",
+	"copy-from": "fn57",
+    "name": "FN Five-Seven (5.7x28mm)"
+  },
+  {
+    "id": "fn_p90",
+	"type": "GUN",
+	"copy-from": "fn_p90",
+    "name": "FN P90 (5.7x28mm)"
+  }
+]

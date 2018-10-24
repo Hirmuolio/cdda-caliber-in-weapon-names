@@ -1,0 +1,38 @@
+[
+  {
+    "id": "launcher_simple",
+	"type": "GUN",
+	"copy-from": "launcher_simple",
+    "name": "tube 40mm launcher (40mm)"
+  },
+  {
+    "id": "m320",
+	"type": "GUN",
+	"copy-from": "m320",
+    "name": "M320 stand alone launcher (40mm)"
+  },
+  {
+    "id": "m79",
+	"type": "GUN",
+	"copy-from": "m79",
+    "name": "M79 launcher (40mm)"
+  },
+  {
+    "id": "mark19",
+	"type": "GUN",
+	"copy-from": "mark19",
+    "name": "Mark 19 grenade launcher (40mm)"
+  },
+  {
+    "id": "mgl",
+	"type": "GUN",
+	"copy-from": "mgl",
+    "name": "Milkor MGL (40mm)"
+  },
+  {
+    "id": "rm802",
+	"type": "GUN",
+	"copy-from": "rm802",
+    "name": "RM802 grenade launcher (40mm)"
+  }
+]

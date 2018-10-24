@@ -1,0 +1,14 @@
+[
+  {
+    "id": "needlegun",
+	"type": "GUN",
+	"copy-from": "needlegun",
+    "name": "RM216 SPIW (5x50)"
+  },
+  {
+    "id": "needlepistol",
+	"type": "GUN",
+	"copy-from": "needlepistol",
+    "name": "RM232 IDW (5x50)"
+  }
+]

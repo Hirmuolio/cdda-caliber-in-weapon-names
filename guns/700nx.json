@@ -1,0 +1,8 @@
+[
+  {
+    "id": "trex_gun",
+	"type": "GUN",
+	"copy-from": "trex_gun",
+    "name": "Elephant gun (.700)"
+  }
+]

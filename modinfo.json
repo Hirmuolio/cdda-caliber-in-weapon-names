@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "caliber_in_name",
+    "name": "Caliber in weapon name",
+    "authors": [ "Hirmuolio" ],
+    "description": "Adds ammo caliber to the weapon names.",
+    "category": "",
+    "dependencies": [ "dda" ]
+  }
+]

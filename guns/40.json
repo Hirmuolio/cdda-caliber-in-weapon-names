@@ -1,0 +1,23 @@
+[
+  {
+    "id": "glock_22",
+	"type": "GUN",
+	"copy-from": "glock_22",
+    "name": "Glock 22 (.40)",
+	"name_plural": "Glock 22 (.40)"
+  },
+  {
+    "id": "surv_six_shooter",
+	"type": "GUN",
+	"copy-from": "surv_six_shooter",
+    "name": "handmade six-shooter (.40)",
+	"name_plural": "handmade six-shooters (.40)"
+  },
+  {
+    "id": "surv_six_shooter",
+	"type": "GUN",
+	"copy-from": "surv_six_shooter",
+    "name": "S&W 610 (.40)",
+	"name_plural": "S&W 610 (.40)"
+  }
+]

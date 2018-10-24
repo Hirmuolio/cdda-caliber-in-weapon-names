@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sig_p230",
+	"type": "GUN",
+	"copy-from": "sig_p230",
+    "name": "SIG Sauer P230 (.32)",
+	"name_plural": "SIG Sauer P230 (.32)"
+  },
+  {
+    "id": "skorpion_61",
+	"type": "GUN",
+	"copy-from": "skorpion_61",
+    "name": "Skorpion Vz. 61 (.32)"
+  },
+  {
+    "id": "walther_ppk",
+	"type": "GUN",
+	"copy-from": "walther_ppk",
+    "name": "Walther PPK (.32)",
+	"name_plural": "Walther PPK (.32)"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "m107a1",
+	"type": "GUN",
+	"copy-from": "m107a1",
+    "name": "Barrett M107A1 (.50)",
+	"name_plural": "Barrett M107A1 (.50)"
+  },
+  {
+    "id": "m2browning",
+	"type": "GUN",
+	"copy-from": "m2browning",
+    "name": "M2 Browning HMG (.50)",
+	"name_plural": "M2 Browning HMG (.50)"
+  }
+]

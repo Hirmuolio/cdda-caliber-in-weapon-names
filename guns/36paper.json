@@ -1,0 +1,8 @@
+[
+  {
+    "id": "colt_navy",
+	"type": "GUN",
+	"copy-from": "colt_navy",
+    "name": "Colt M1861 Navy (.36)"
+  }
+]

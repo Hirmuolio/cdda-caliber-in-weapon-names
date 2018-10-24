@@ -1,0 +1,110 @@
+[
+  {
+    "id": "acr",
+	"type": "GUN",
+	"copy-from": "acr",
+    "name": "Remington ACR (.223)"
+  },
+  {
+    "id": "ar15",
+	"type": "GUN",
+	"copy-from": "ar15",
+    "name": "AR-15 (.223)"
+  },
+  {
+    "id": "h&k416a5",
+	"type": "GUN",
+	"copy-from": "h&k416a5",
+    "name": "H&K 416A5 (.223)"
+  },
+  {
+    "id": "hk_g36",
+	"type": "GUN",
+	"copy-from": "hk_g36",
+    "name": "H&K G36 (.223)"
+  },
+  {
+    "id": "l_bak_223",
+	"type": "GUN",
+	"copy-from": "l_bak_223",
+    "name": "L2037 Backup (.223)"
+  },
+  {
+    "id": "l_base_223",
+	"type": "GUN",
+	"copy-from": "l_base_223",
+    "name": "L523 platform (.223)"
+  },
+  {
+    "id": "l_car_223",
+	"type": "GUN",
+	"copy-from": "l_car_223",
+    "name": "L523-CAR carbine (.223)"
+  },
+  {
+    "id": "l_dsr_223",
+	"type": "GUN",
+	"copy-from": "l_dsr_223",
+    "name": "L523-DSR rifle (.223)"
+  },
+  {
+    "id": "l_lmg_223",
+	"type": "GUN",
+	"copy-from": "l_lmg_223",
+    "name": "L523-LMG (.223)"
+  },
+  {
+    "id": "l_mbr_223",
+	"type": "GUN",
+	"copy-from": "l_mbr_223",
+    "name": "L523-MBR rifle (.223)"
+  },
+  {
+    "id": "m249",
+	"type": "GUN",
+	"copy-from": "m249",
+    "name": "M249 (.223)"
+  },
+  {
+    "id": "m27iar",
+	"type": "GUN",
+	"copy-from": "m27iar",
+    "name": "M27 IAR (.223)"
+  },
+  {
+    "id": "m4a1",
+	"type": "GUN",
+	"copy-from": "m4a1",
+    "name": "M4A1 (.223)"
+  },
+  {
+    "id": "ruger_mini",
+	"type": "GUN",
+	"copy-from": "ruger_mini",
+    "name": "Ruger Mini-14 (.223)"
+  },
+  {
+    "id": "scar_l",
+	"type": "GUN",
+	"copy-from": "scar_l",
+    "name": "FN SCAR-L (.223)"
+  },
+  {
+    "id": "sig552",
+	"type": "GUN",
+	"copy-from": "sig552",
+    "name": "SIG 552 (.223)"
+  },
+  {
+    "id": "steyr_aug",
+	"type": "GUN",
+	"copy-from": "steyr_aug",
+    "name": "Steyr AUG (.223)"
+  },
+  {
+    "id": "surv_carbine_223",
+	"type": "GUN",
+	"copy-from": "surv_carbine_223",
+    "name": "handmade carbine (.223)"
+  }
+]

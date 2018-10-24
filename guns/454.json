@@ -1,0 +1,9 @@
+[
+  {
+    "id": "raging_bull",
+	"type": "GUN",
+	"copy-from": "raging_bull",
+    "name": "Taurus Raging Bull (.454)",
+	"name_plural": "Taurus Raging Bull (.454)"
+  }
+]

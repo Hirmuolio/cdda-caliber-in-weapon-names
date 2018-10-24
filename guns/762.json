@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ak47",
+	"type": "GUN",
+	"copy-from": "ak47",
+    "name": "AKM (7.62x39mm)"
+  },
+  {
+    "id": "arx160",
+	"type": "GUN",
+	"copy-from": "arx160",
+    "name": "Beretta ARX-160 (7.62x39mm)",
+	"name_plural": "Beretta ARX-160 (7.62x39mm)"
+  },
+  {
+    "id": "sks",
+	"type": "GUN",
+	"copy-from": "sks",
+    "name": "Beretta ARX-160 (7.62x39mm)",
+	"name_plural": "SKS (7.62x39mm)"
+  }
+]

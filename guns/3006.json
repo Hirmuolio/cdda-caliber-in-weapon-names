@@ -1,0 +1,48 @@
+[
+  {
+    "id": "browning_blr",
+	"type": "GUN",
+	"copy-from": "browning_blr",
+    "name": "Browning BLR (.30-06)",
+	"name_plural": "Browning BLR (.30-06)"
+  },
+  {
+    "id": "garand",
+	"type": "GUN",
+	"copy-from": "garand",
+    "name": "M1 Garand (.30-06)"
+  },
+  {
+    "id": "m1903",
+	"type": "GUN",
+	"copy-from": "m1903",
+    "name": "M1903 Springfield (.30-06)"
+  },
+  {
+    "id": "m1918",
+	"type": "GUN",
+	"copy-from": "m1918",
+    "name": "Browning Automatic Rifle (.30-06)"
+  },
+  {
+    "id": "remington_700",
+	"type": "GUN",
+	"copy-from": "remington_700",
+    "name": "Remington 700 (.30-06)",
+	"name_plural": "Remington 700 (.30-06)"
+  },
+  {
+    "id": "rifle_3006",
+	"type": "GUN",
+	"copy-from": "rifle_3006",
+    "name": "pipe rifle (.30-06)",
+	"name_plural": "pipe rifle (.30-06)"
+  },
+  {
+    "id": "survivor_special_700",
+	"type": "GUN",
+	"copy-from": "survivor_special_700",
+    "name": "Special 700 (.30-06)",
+	"name_plural": "Special 700s (.30-06)"
+  }
+]

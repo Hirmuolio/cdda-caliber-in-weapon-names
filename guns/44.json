@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lemat_revolver",
+	"type": "GUN",
+	"copy-from": "lemat_revolver",
+    "name": "LeMat revolver (.44)"
+  },
+  {
+    "id": "ruger_redhawk",
+	"type": "GUN",
+	"copy-from": "ruger_redhawk",
+    "name": "Ruger Redhawk (.44)"
+  },
+  {
+    "id": "sw629",
+	"type": "GUN",
+	"copy-from": "sw629",
+    "name": "S&W 629 (.44)"
+  }
+]

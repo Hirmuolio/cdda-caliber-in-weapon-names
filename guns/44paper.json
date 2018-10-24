@@ -1,0 +1,8 @@
+[
+  {
+    "id": "colt_army",
+	"type": "GUN",
+	"copy-from": "colt_army",
+    "name": "Colt M1860 Army (.44 paper)"
+  }
+]
