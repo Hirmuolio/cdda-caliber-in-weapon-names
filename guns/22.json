@@ -7,6 +7,13 @@
 	"name_plural": "American-180 (.22)"
   },
   {
+    "id": "ruger_lcr_22",
+	"type": "GUN",
+	"copy-from": "ruger_lcr_22",
+    "name": "Ruger LCR .22 (.22)",
+	"name_plural": "Ruger LCR .22 (.22)"
+  },
+  {
     "id": "marlin_9a",
 	"type": "GUN",
 	"copy-from": "marlin_9a",

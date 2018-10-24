@@ -34,5 +34,11 @@
 	"type": "GUN",
 	"copy-from": "rm802",
     "name": "RM802 grenade launcher (40mm)"
+  },
+  {
+    "id": "triple_launcher_simple",
+	"type": "GUN",
+	"copy-from": "triple_launcher_simple",
+    "name": "triple-barrel 40mm launcher (40mm)"
   }
 ]

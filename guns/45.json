@@ -61,5 +61,11 @@
 	"type": "GUN",
 	"copy-from": "tommygun",
     "name": "Thompson submachine gun (.45)"
+  },
+  {
+    "id": "usp_45",
+	"type": "GUN",
+	"copy-from": "usp_45",
+    "name": "USP .45 (.45)"
   }
 ]

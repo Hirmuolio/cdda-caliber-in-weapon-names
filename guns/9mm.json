@@ -6,10 +6,22 @@
     "name": "briefcase SMG (9mm)"
   },
   {
-    "id": "calico",
+    "id": "usp_9mm",
 	"type": "GUN",
-	"copy-from": "calico",
-    "name": "Calico M960 (9mm)"
+	"copy-from": "usp_9mm",
+    "name": "USP 9mm (9mm)"
+  },
+  {
+    "id": "usp_9mm",
+	"type": "GUN",
+	"copy-from": "usp_9mm",
+    "name": "USP 9mm (9mm)"
+  },
+  {
+    "id": "uzi",
+	"type": "GUN",
+	"copy-from": "uzi",
+    "name": "Uzi 9mm (9mm)"
   },
   {
     "id": "cx4",

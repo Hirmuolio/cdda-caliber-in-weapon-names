@@ -14,10 +14,17 @@
 	"name_plural": "handmade six-shooters (.40)"
   },
   {
-    "id": "surv_six_shooter",
+    "id": "sw_610",
 	"type": "GUN",
-	"copy-from": "surv_six_shooter",
+	"copy-from": "sw_610",
     "name": "S&W 610 (.40)",
 	"name_plural": "S&W 610 (.40)"
+  },
+  {
+    "id": "sig_40",
+	"type": "GUN",
+	"copy-from": "sig_40",
+    "name": "SIG Pro .40 (.40)",
+	"name_plural": "SIG Pro .40 (.40)"
   }
 ]
