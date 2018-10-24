@@ -1,0 +1,64 @@
+[
+  {
+    "id": "american_180",
+	"type": "GUN",
+	"copy-from": "american_180",
+    "name": "American-180 (.22)",
+	"name_plural": "American-180 (.22)"
+  },
+  {
+    "id": "ruger_lcr_22",
+	"type": "GUN",
+	"copy-from": "ruger_lcr_22",
+    "name": "Ruger LCR .22 (.22)",
+	"name_plural": "Ruger LCR .22 (.22)"
+  },
+  {
+    "id": "marlin_9a",
+	"type": "GUN",
+	"copy-from": "marlin_9a",
+    "name": "Marlin 39A (.22)",
+	"name_plural": "Marlin 39A (.22)"
+  },
+  {
+    "id": "moss_brownie",
+	"type": "GUN",
+	"copy-from": "moss_brownie",
+    "name": "Mossberg Brownie (.22)",
+	"name_plural": "Mossberg Brownie (.22)"
+  },
+  {
+    "id": "rifle_22",
+	"type": "GUN",
+	"copy-from": "rifle_22",
+    "name": "pipe rifle (.22)",
+	"name_plural": "pipe rifle (.22)"
+  },
+  {
+    "id": "rm360_carbine",
+	"type": "GUN",
+	"copy-from": "rm360_carbine",
+    "name": "RM360 rotary carbine (.22)"
+  },
+  {
+    "id": "ruger_1022",
+	"type": "GUN",
+	"copy-from": "ruger_1022",
+    "name": "Ruger 10/22 (.22)",
+	"name_plural": "Ruger 10/22 (.22)"
+  },
+  {
+    "id": "sig_mosquito",
+	"type": "GUN",
+	"copy-from": "sig_mosquito",
+    "name": "SIG Mosquito (.22)",
+	"name_plural": "SIG Mosquito (.22)"
+  },
+  {
+    "id": "sw_22",
+	"type": "GUN",
+	"copy-from": "sw_22",
+    "name": "S&W 22A (.22)",
+	"name_plural": "S&W 22A (.22)"
+  }
+]

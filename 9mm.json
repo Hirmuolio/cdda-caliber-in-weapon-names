@@ -1,0 +1,98 @@
+[
+  {
+    "id": "briefcase_smg",
+	"type": "GUN",
+	"copy-from": "briefcase_smg",
+    "name": "briefcase SMG (9mm)"
+  },
+  {
+    "id": "usp_9mm",
+	"type": "GUN",
+	"copy-from": "usp_9mm",
+    "name": "USP 9mm (9mm)"
+  },
+  {
+    "id": "usp_9mm",
+	"type": "GUN",
+	"copy-from": "usp_9mm",
+    "name": "USP 9mm (9mm)"
+  },
+  {
+    "id": "uzi",
+	"type": "GUN",
+	"copy-from": "uzi",
+    "name": "Uzi 9mm (9mm)"
+  },
+  {
+    "id": "cx4",
+	"type": "GUN",
+	"copy-from": "cx4",
+    "name": "Cx4 Storm (9mm)"
+  },
+  {
+    "id": "glock_19",
+	"type": "GUN",
+	"copy-from": "glock_19",
+    "name": "Glock 19 (9mm)"
+  },
+  {
+    "id": "hk_mp5",
+	"type": "GUN",
+	"copy-from": "hk_mp5",
+    "name": "H&K MP5 (9mm)"
+  },
+  {
+    "id": "ksub2000",
+	"type": "GUN",
+	"copy-from": "ksub2000",
+    "name": "Kel-Tec SUB-2000 (9mm)"
+  },
+  {
+    "id": "l_lookout_9mm",
+	"type": "GUN",
+	"copy-from": "l_lookout_9mm",
+    "name": "L2032 Lookout (9mm)"
+  },
+  {
+    "id": "l_mp_9mm",
+	"type": "GUN",
+	"copy-from": "l_mp_9mm",
+    "name": "L39B (9mm)"
+  },
+  {
+    "id": "l_sp_9mm",
+	"type": "GUN",
+	"copy-from": "l_sp_9mm",
+    "name": "L39 (9mm)"
+  },
+  {
+    "id": "m9",
+	"type": "GUN",
+	"copy-from": "m9",
+    "name": "Beretta M9 (9mm)"
+  },
+  {
+    "id": "rifle_9mm",
+	"type": "GUN",
+	"copy-from": "rifle_9mm",
+    "name": "pipe rifle (9mm)"
+  },
+  {
+    "id": "sten",
+	"type": "GUN",
+	"copy-from": "sten",
+    "name": "STEN (9mm)"
+  },
+  {
+    "id": "tec9",
+	"type": "GUN",
+	"copy-from": "tec9",
+    "name": "TEC-9 (9mm)"
+  },
+  {
+    "id": "glock_17",
+	"type": "GUN",
+	"copy-from": "glock_17",
+    "name": "Glock 17 (9mm)"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2_shot_special",
+	"type": "GUN",
+	"copy-from": "2_shot_special",
+    "name": "2 Shot Special (.38)",
+	"name_plural": "2 Shot Specials (.38)"
+  },
+  {
+    "id": "sw_619",
+	"type": "GUN",
+	"copy-from": "sw_619",
+    "name": "S&W 619 (.38)",
+	"name_plural": "S&W 619 (.38)"
+  },
+  {
+    "id": "cop_38",
+	"type": "GUN",
+	"copy-from": "cop_38",
+    "name": "COP .38 (.38)",
+	"name_plural": "COP .38 (.38)"
+  },
+  {
+    "id": "ruger_lcr_38",
+	"type": "GUN",
+	"copy-from": "ruger_lcr_38",
+    "name": "Ruger LCR .38 (.38)",
+	"name_plural": "Ruger LCR .38 (.38)"
+  },
+  {
+    "id": "taurus_38",
+	"type": "GUN",
+	"copy-from": "taurus_38",
+    "name": "Taurus Pro .38 (.38)",
+	"name_plural": "Taurus Pro .38 (.38)"
+  }
+]

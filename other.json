@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ftk93",
+	"type": "GUN",
+	"copy-from": "ftk93",
+    "name": "FTK-93 fusion gun (fusion)"
+  },
+  {
+    "id": "plasma_rifle",
+	"type": "GUN",
+	"copy-from": "plasma_rifle",
+    "name": "Boeing XM-P plasma rifle (plasma)"
+  },
+  {
+    "id": "pipe_combination_gun",
+	"type": "GUN",
+	"copy-from": "pipe_combination_gun",
+    "name": "pipe combination gun (shot) (.30-06)"
+  },
+  {
+    "id": "combination_gun",
+	"type": "GUN",
+	"copy-from": "combination_gun",
+    "name": "combination gun (shot) (.30-06)"
+  },
+  {
+    "id": "abzats",
+	"type": "GUN",
+	"copy-from": "abzats",
+    "name": "heavy automatic shotgun (shot)"
+  }
+]
