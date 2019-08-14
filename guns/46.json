@@ -4,11 +4,5 @@
 	"type": "GUN",
 	"copy-from": "hk_mp7",
     "name": "H&K MP7 (4.6x30mm)"
-  },
-  {
-    "id": "hk_ucp",
-	"type": "GUN",
-	"copy-from": "hk_ucp",
-    "name": "H&K UCP (4.6x30mm)"
   }
 ]
